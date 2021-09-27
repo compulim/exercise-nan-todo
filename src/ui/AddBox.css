@@ -1,0 +1,15 @@
+.add-box__add-button, .add-box__input {
+  font-size: 24px;
+}
+
+.add-box__add-button {
+  appearance: none;
+  background-color: white;
+  border: solid 2px Black;
+  margin-left: .4em;
+}
+
+.add-box__input {
+  appearance: none;
+  border: solid 2px Black;
+}

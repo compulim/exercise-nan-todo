@@ -1,0 +1,22 @@
+.to-do-list-item__body, .to-do-list-item__checkbox, .to-do-list-item__remove-button {
+  font-size: 24px;
+}
+
+.to-do-list-item--completed .to-do-list-item__body {
+  text-decoration: line-through;
+}
+
+.to-do-list-item__body {
+  margin-left: .4em;
+}
+
+.to-do-list-item__checkbox {
+  background-color: Red;
+  padding: 20px;
+}
+
+.to-do-list-item__remove-button {
+  appearance: none;
+  background: none;
+  border: 0;
+}
